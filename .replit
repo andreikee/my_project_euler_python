@@ -1,2 +1,0 @@
-language = "python3"
-run = "python 001_multiples_of_3_and_5.py"
